@@ -16,10 +16,10 @@ sudo apt install git  -y
 
 # Installation
 ```bash
-sudo git clone https://github.com/cektor/searcher.git
+sudo git clone https://github.com/cektor/searcher-CLI.git
 ```
 ```bash
-cd searcher/
+cd searcher-CLI/
 ```
 ```bash
 sudo chmod +x searcher.sh
