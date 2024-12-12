@@ -2,7 +2,7 @@
     <img src="https://raw.githubusercontent.com/pedromxavier/flag-badges/main/badges/TR.svg" alt="made in TR">
 </a>
 
-# searcher
+# searcher CLI
 Features Fast and Practical File Search Tool on Servers and Non-Desktop Systems
 
 Install Git Clone 
